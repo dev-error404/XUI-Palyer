@@ -43,6 +43,10 @@
 - **Bóveda Cifrada (AES-256)**: Almacenamiento seguro de credenciales e historial.
 - **Protección Anti-Sniffer**: Bloqueo activo de captura de tráfico de red para proteger los servidores del proveedor.
 
+### 📢 Panel de Notificaciones Integrado
+- Envía mensajes y notificaciones en tiempo real a todos los usuarios de la aplicación mediante nuestro panel web de administración:
+  - 🔗 **[Panel de Notificaciones de OTT TV](https://noti.galaxybeatsrecords.com/)**
+
 ---
 
 ## 📲 Descargar Ejecutables / Releases

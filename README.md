@@ -7,7 +7,7 @@
 **OTT TV** es una plataforma profesional de reproducción IPTV de alta velocidad, diseñada para ofrecer una experiencia cinematográfica en dispositivos **Android TV, Fire TV Stick, TV Box, teléfonos móviles Android y computadoras con Windows**.
 
 <p align="center">
-  <img src="login.png" alt="OTT TV Login Interface" width="800"/>
+  <img src="Screenshot_20260730_001427.jpg" alt="OTT TV Interface" width="800"/>
 </p>
 
 ---

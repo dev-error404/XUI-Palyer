@@ -39,9 +39,14 @@
 - Inicio de sesión mediante **Servidor / DNS, Usuario y Contraseña**.
 - Conexión directa y segura con servidores Xtream UI sin intermediarios.
 
-### 🛡️ Seguridad & Protección
+### 🛡️ Seguridad & Protección Familiar
 - **Bóveda Cifrada (AES-256)**: Almacenamiento seguro de credenciales e historial.
 - **Protección Anti-Sniffer**: Bloqueo activo de captura de tráfico de red para proteger los servidores del proveedor.
+- **Control Parental Integrado**: Bloqueo de canales y categorías para adultos mediante PIN de seguridad.
+
+### 📼 Experiencia de Usuario Avanzada
+- **Guía Electrónica de Programación (EPG)**: Consulta de programación en tiempo real y soporte para carga de EPGs recientes.
+- **Historial de Reproducción Inteligente**: El reproductor recuerda exactamente en qué minuto y segundo dejaste una película o serie para que puedas reanudarla al instante.
 
 ### 📢 Panel de Notificaciones Integrado
 - Envía mensajes y notificaciones en tiempo real a todos los usuarios de la aplicación mediante nuestro panel web de administración:

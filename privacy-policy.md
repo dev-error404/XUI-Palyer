@@ -1,32 +1,32 @@
-# Privacy Policy for xTreamPlayer / OTT TV
+# Política de Privacidad de xTreamPlayer / OTT TV
 
-**Last Updated:** July 31, 2026
+**Última Actualización:** 31 de Julio de 2026
 
-Corporacion Astete ("we," "us," or "our") operates the xTreamPlayer/OTT TV application (the "App"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our App.
+Madness_Dev ("nosotros", "nuestro" o "nuestra") opera la aplicación xTreamPlayer/OTT TV (la "App"). Esta página le informa sobre nuestras políticas en relación con la recopilación, uso y divulgación de datos personales cuando utiliza nuestra App.
 
-### 1. No Content Provided
-The App is purely a media player designed to play user-provided content (such as M3U playlists, Xtream Codes API credentials, or direct media links). **We do NOT provide, host, or sell any media content, streams, or copyrighted material.** Users are entirely responsible for the content they choose to play through the App.
+### 1. No Proveemos Contenido
+La App es puramente un reproductor multimedia diseñado para reproducir contenido proporcionado por el usuario (como listas de reproducción M3U, credenciales de API Xtream Codes o enlaces multimedia directos). **Nosotros NO proporcionamos, alojamos ni vendemos contenido multimedia, transmisiones ni material protegido por derechos de autor.** Los usuarios son completamente responsables del contenido que decidan reproducir a través de la App.
 
-### 2. Information Collection and Use
-We do not require you to create an account with us, nor do we collect personally identifiable information (PII) such as your name, email address, or phone number.
-The App may use third-party services (such as Firebase Analytics or Crashlytics) that collect anonymous diagnostic data (like crash reports and device models) to help us improve the App's stability.
+### 2. Recopilación y Uso de Información
+No requerimos que cree una cuenta con nosotros, ni recopilamos información de identificación personal como su nombre, dirección de correo electrónico o número de teléfono.
+La App puede utilizar servicios de terceros (como Firebase Analytics o Crashlytics) que recopilan datos de diagnóstico anónimos (como informes de fallos y modelos de dispositivos) para ayudarnos a mejorar la estabilidad de la App.
 
-### 3. Log Data
-When you use the App, we do not log your viewing history or the contents of your playlists on our servers. All playlist data and watch history are stored locally on your device using an encrypted local database.
+### 3. Registro de Datos
+Cuando utiliza la App, no registramos su historial de visualización ni el contenido de sus listas de reproducción en nuestros servidores. Todos los datos de las listas y el historial de visualización se almacenan localmente en su propio dispositivo mediante una base de datos local cifrada.
 
-### 4. Permissions
-The App may request certain permissions on your device, such as:
-- **Network Access:** Required to connect to the URLs or servers you provide for streaming.
-- **Storage:** Required only if you choose to load a playlist file locally from your device.
+### 4. Permisos
+La App puede solicitar ciertos permisos en su dispositivo, como:
+- **Acceso a la Red:** Necesario para conectarse a las URLs o servidores que usted proporcione para la transmisión.
+- **Almacenamiento:** Necesario solo si decide cargar un archivo de lista de reproducción localmente desde su dispositivo.
 
-### 5. Third-Party Links
-Our App may contain links to other sites or services not operated by us. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+### 5. Enlaces a Terceros
+Nuestra App puede contener enlaces a otros sitios o servicios no operados por nosotros. No tenemos control ni asumimos responsabilidad por el contenido, políticas de privacidad o prácticas de sitios o servicios de terceros.
 
-### 6. Children's Privacy
-Our App does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. Furthermore, the App includes a Parental Control (PIN) feature that parents can use to restrict access to adult content provided by their own playlists.
+### 6. Privacidad Infantil
+Nuestra App no está dirigida a menores de 13 años. No recopilamos conscientemente información de identificación personal de niños menores de 13 años. Además, la App incluye una función de Control Parental (PIN) que los padres pueden usar para restringir el acceso a contenido para adultos proporcionado por sus propias listas de reproducción.
 
-### 7. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+### 7. Cambios en Esta Política de Privacidad
+Es posible que actualicemos nuestra Política de Privacidad de vez en cuando. Le notificaremos cualquier cambio publicando la nueva Política de Privacidad en esta página.
 
-### 8. Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at our official support channels.
+### 8. Contáctenos
+Si tiene alguna pregunta o sugerencia sobre nuestra Política de Privacidad, no dude en contactarnos a través de nuestros canales de soporte oficiales.
